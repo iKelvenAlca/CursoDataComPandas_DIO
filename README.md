@@ -1,3 +1,6 @@
+____________
+Curso realido na DIO com mais comentarios nas células e atualizações nos codigos para IDE ao invés de Jupyter
+____________
 # Curso_Python_Pandas_Digital_Innovation
  Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
  
